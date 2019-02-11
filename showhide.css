@@ -9,3 +9,12 @@ td {
     width: 100px;
     height: 100px;
 }
+.bang{
+    border: green 2px solid;
+}
+/*creates a border around clicked targets*/
+
+.boom{
+    border: red 2px solid;
+}
+/*creates a border for all targets that were shown after time is up or all clicks are used*/
